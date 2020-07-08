@@ -216,7 +216,7 @@ html{--antd-wave-shadow-color:#13a8a8}
 .ant-checkbox-checked:after{border:1px solid #13a8a8}
 .ant-checkbox-inner{background-color:#141414}
 .ant-checkbox-inner:after{border:2px solid #141414}
-.ant-checkbox-checked .ant-checkbox-inner:after{border:2px solid #141414}
+.ant-checkbox-checked .ant-checkbox-inner:after{border:2px solid #141414;border-top:0;border-left:0;}
 .ant-checkbox-checked .ant-checkbox-inner{background-color:#13a8a8;border-color:#13a8a8}
 .ant-checkbox-disabled.ant-checkbox-checked .ant-checkbox-inner:after{border-color:rgba(255,255,255,.25)}
 .ant-checkbox-disabled+span{color:rgba(255,255,255,.25)}
