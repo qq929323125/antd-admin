@@ -36,6 +36,7 @@ export default {
         lang(val) {
             this.setLanguage(val);
         },
+
         $route() {
             this.setHtmlTitle();
         },
