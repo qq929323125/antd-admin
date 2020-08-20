@@ -18,6 +18,7 @@ export default {
             locale: {},
         };
     },
+
     created() {
         this.setHtmlTitle();
         this.setLanguage(this.lang);
