@@ -14,7 +14,7 @@ export default {
     name: "App",
     data() {
         return {
-            ag:111,
+            ag: 111,
             locale: {},
         };
     },
