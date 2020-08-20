@@ -9,4 +9,5 @@ module.exports = {
     arrowParens: "always",
     // 对象结尾的逗号
     trailingComma: "all",
+    endOfLine: "lf",
 };
